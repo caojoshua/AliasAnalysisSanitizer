@@ -8,7 +8,7 @@ clang++ ../runtime/MemoryHooks.cpp -c -emit-llvm
 llvm-link hello.bc MemoryHooks.bc > link.bc
 llvm-dis link.bc
 
-opt -load ../build/lib/LLVMasdf.so -hello < link.bc > opt.bc
+opt -load ../build/lib/LLVMAasanInstrument.so -memory-instrument < link.bc > opt.bc
 
 clang++ opt.bc
 llvm-dis opt.bc

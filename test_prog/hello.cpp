@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
+#include <iostream>
 
 struct S {
 	S(char* desc) : desc(desc) {}
@@ -15,6 +17,13 @@ void foo(S* s) {
 }
 
 int main() {
+
+	int N = 5;
+//	std::cin >> N;
+
+	int* i = (int*) malloc(N * sizeof(int));
+	free(i);
+
 	S* s1 = new S(strdup("first"));
 	S* s2 = new S(strdup("second"));
 	S* s3 = s1;

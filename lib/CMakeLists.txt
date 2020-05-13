@@ -1,5 +1,5 @@
 
-add_llvm_library(LLVMasdf MODULE 
+add_llvm_library(LLVMAasanInstrument MODULE 
 	InstrumentationPass.cpp
 	)
 

@@ -1,130 +1,175 @@
+memory allocation
+	start address: 0x7ffd835eba5c
+	size in bytes: 4
 pointer definition
-	load into: 0x7ffcf79edc9c
+	load into: 0x7ffd835eba5c
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eba50
+	size in bytes: 8
+pointer definition
+	load into: 0x7ffd835eba50
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eba40
+	size in bytes: 8
+pointer definition
+	load into: 0x7ffd835eba40
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eba30
+	size in bytes: 8
+pointer definition
+	load into: 0x7ffd835eba30
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eba20
+	size in bytes: 8
+pointer definition
+	load into: 0x7ffd835eba20
 	load from: (nil)
 pointer definition
-	load into: 0x7ffcf79edc88
-	load from: (nil)
-pointer definition
-	load into: 0x7ffcf79edc78
-	load from: (nil)
-pointer definition
-	load into: 0x7ffcf79edc68
-	load from: (nil)
-pointer definition
-	load into: 0x1d84ec0
-	load from: (nil)
-pointer definition
-	load into: 0x1d84ee0
-	load from: (nil)
-pointer definition
-	load into: 0x7ffcf79edb78
-	load from: (nil)
-store
-	value to store: 0x1d84ec0
-	store into: 0x7ffcf79edb78
-store
-	value to store: 0x1d84ee0
-	store into: 0x7ffcf79edb70
-pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edb78
-pointer definition
-	load into: 0x1d84ee0
-	load from: 0x7ffcf79edb70
-store
-	value to store: 0x1d84ec0
-	store into: 0x7ffcf79edc90
-pointer definition
-	load into: 0x1d84f00
-	load from: (nil)
-pointer definition
-	load into: 0x1d84f20
-	load from: (nil)
-pointer definition
-	load into: 0x7ffcf79edb78
+	load into: 0xf56ec0
 	load from: (nil)
 store
-	value to store: 0x1d84f00
-	store into: 0x7ffcf79edb78
-store
-	value to store: 0x1d84f20
-	store into: 0x7ffcf79edb70
+	value to store: 0xf56ec0
+	store into: 0x7ffd835eba50
 pointer definition
-	load into: 0x1d84f00
-	load from: 0x7ffcf79edb78
+	load into: 0xf56ec0
+	load from: 0x7ffd835eba50
 pointer definition
-	load into: 0x1d84f20
-	load from: 0x7ffcf79edb70
-store
-	value to store: 0x1d84f00
-	store into: 0x7ffcf79edc78
-pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edc90
-pointer definition
-	load into: 0x1d84f00
-	load from: 0x7ffcf79edc78
-pointer definition
-	load into: 0x1d84f00
+	load into: 0xf56ec0
 	load from: (nil)
 pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edc90
+	load into: 0xf56ee0
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
 pointer definition
-	load into: 0x7ffcf79edb78
+	load into: 0x7ffd835eb8e8
+	load from: (nil)
+store
+	value to store: 0xf56ec0
+	store into: 0x7ffd835eb8e8
+store
+	value to store: 0xf56ee0
+	store into: 0x7ffd835eb8e0
+pointer definition
+	load into: 0xf56ec0
+	load from: 0x7ffd835eb8e8
+pointer definition
+	load into: 0xf56ee0
+	load from: 0x7ffd835eb8e0
+store
+	value to store: 0xf56ec0
+	store into: 0x7ffd835eba48
+pointer definition
+	load into: 0xf56f00
 	load from: (nil)
 pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edb78
+	load into: 0xf56f20
+	load from: (nil)
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
 pointer definition
-	load into: 0x1d84ee0
-	load from: 0x1d84ec0
+	load into: 0x7ffd835eb8e8
+	load from: (nil)
+store
+	value to store: 0xf56f00
+	store into: 0x7ffd835eb8e8
+store
+	value to store: 0xf56f20
+	store into: 0x7ffd835eb8e0
+pointer definition
+	load into: 0xf56f00
+	load from: 0x7ffd835eb8e8
+pointer definition
+	load into: 0xf56f20
+	load from: 0x7ffd835eb8e0
+store
+	value to store: 0xf56f00
+	store into: 0x7ffd835eba30
+pointer definition
+	load into: 0xf56ec0
+	load from: 0x7ffd835eba48
+pointer definition
+	load into: 0xf56f00
+	load from: 0x7ffd835eba30
+pointer definition
+	load into: 0xf56f00
+	load from: (nil)
+pointer definition
+	load into: 0xf56ec0
+	load from: 0x7ffd835eba48
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
+pointer definition
+	load into: 0x7ffd835eb8e8
+	load from: (nil)
+pointer definition
+	load into: 0xf56ec0
+	load from: 0x7ffd835eb8e8
+pointer definition
+	load into: 0xf56ee0
+	load from: 0xf56ec0
 first
 pointer definition
-	load into: 0x1d84f00
-	load from: 0x7ffcf79edc78
+	load into: 0xf56f00
+	load from: 0x7ffd835eba30
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
 pointer definition
-	load into: 0x7ffcf79edb78
+	load into: 0x7ffd835eb8e8
 	load from: (nil)
 pointer definition
-	load into: 0x1d84f00
-	load from: 0x7ffcf79edb78
+	load into: 0xf56f00
+	load from: 0x7ffd835eb8e8
 pointer definition
-	load into: 0x1d84f20
-	load from: 0x1d84f00
+	load into: 0xf56f20
+	load from: 0xf56f00
 second
 pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edc70
+	load into: 0xf56ec0
+	load from: 0x7ffd835eba28
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
 pointer definition
-	load into: 0x7ffcf79edb78
+	load into: 0x7ffd835eb8e8
 	load from: (nil)
 pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edb78
+	load into: 0xf56ec0
+	load from: 0x7ffd835eb8e8
 pointer definition
-	load into: 0x1d84ee0
-	load from: 0x1d84ec0
+	load into: 0xf56ee0
+	load from: 0xf56ec0
 first
+memory allocation
+	start address: 0x7ffd835eb8e8
+	size in bytes: 8
 pointer definition
-	load into: 0x7ffcf79edb78
+	load into: 0x7ffd835eb8e8
 	load from: (nil)
 pointer definition
-	load into: 0x7ffcf79edc68
-	load from: 0x7ffcf79edb78
+	load into: 0x7ffd835eba20
+	load from: 0x7ffd835eb8e8
 pointer definition
-	load into: 0x1d84f20
-	load from: 0x7ffcf79edc68
+	load into: 0xf56f20
+	load from: 0x7ffd835eba20
 second
 pointer definition
-	load into: 0x1d84ec0
-	load from: 0x7ffcf79edc90
+	load into: 0xf56ec0
+	load from: 0x7ffd835eba48
 pointer definition
-	load into: 0x1d84ee0
-	load from: 0x1d84ec0
+	load into: 0xf56ee0
+	load from: 0xf56ec0
 pointer definition
-	load into: 0x1d84f00
-	load from: 0x7ffcf79edc78
+	load into: 0xf56f00
+	load from: 0x7ffd835eba30
 pointer definition
-	load into: 0x1d84f20
-	load from: 0x1d84f00
+	load into: 0xf56f20
+	load from: 0xf56f00
